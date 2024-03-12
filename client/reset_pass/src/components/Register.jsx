@@ -157,7 +157,7 @@ function Register() {
             </div>
             <button className="btn">Register</button>
             <p>
-              Already have an account <Link to={"/login"}>Login</Link>
+              Already have an account <Link to={"/"}>Login</Link>
             </p>
           </form>
         </div>
